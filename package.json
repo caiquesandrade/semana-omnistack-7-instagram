@@ -1,5 +1,5 @@
 {
-  "name": "BACKEND",
+  "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -17,5 +17,7 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
-  }
+  },
+  "repository": "https://github.com/caiquesandrade/semana-omnistack-7-instagram.git",
+  "author": "caiquesandrade <caiquesandrade@live.com>"
 }
